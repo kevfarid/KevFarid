@@ -1,4 +1,14 @@
 ### Hi. I'm Kevin Farid 👋
+###### I'm 20 years old
+
+#### 💻 I'm a software developer specialized in frontend developer with 2 years of experience.
+
+🌱  I'm currently studying learning Reactjs, React Native, Python, Go and design concept.
+
+📫 How to reach me:
+
+&nbsp; &nbsp;  &nbsp; [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kevfarid/)
+
 
 <!--
 **KevFarid/KevFarid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
