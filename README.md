@@ -32,9 +32,9 @@ I'm a software developer specialized in frontend developer with 2 years of exper
 </p>
 
 ## 🌎 &nbsp;&nbsp;Find me around the web:
-- Writing in <a href="https://kevinfarid.com/blog">my Blog</a>
-- Showing my projects in <a href="https://kevinfarid.com/">my Web Site</a>
-- Know a little more about my work in <a href="https://www.linkedin.com/in/kevfarid/">Linkedin</a>
+- Writing in <a href="https://kevinfarid.com/blog" target="_blank">my Blog</a>
+- Showing my projects in <a href="https://kevinfarid.com/" target="_blank">my Web Site</a>
+- Know a little more about my work in <a href="https://www.linkedin.com/in/kevfarid/" target="_blank">Linkedin</a>
 
 ## 📈 &nbsp;&nbsp;Some of my stats are:
 <p align="center">
