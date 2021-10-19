@@ -4,7 +4,7 @@
 
 I'm a software developer specialized in frontend developer with 2 years of experience, I passionate about technology and innovation. I know that one day i'll change the world with my ideas 🖤
 
-🇨🇴 i'm from Bogotá, Colombia.
+🇨🇴 &nbsp;&nbsp;&nbsp;I'm from Bogotá, Colombia.
 
 🌱 &nbsp;&nbsp;I'm currently studying learning Reactjs, Python and design concept.
 
