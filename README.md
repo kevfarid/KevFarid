@@ -6,6 +6,8 @@ I'm a software developer specialized in frontend developer with 2 years of exper
 
 🇨🇴 &nbsp;&nbsp;&nbsp;I'm from Bogotá, Colombia.
 
+⚙ &nbsp;&nbsp;&nbsp;I’m collaborate on <a href="https://github.com/platzily">Platzily</a>
+
 🌱 &nbsp;&nbsp;I'm currently studying learning Reactjs, Python and design concept.
 
 💬 &nbsp;&nbsp;Ask me about whatever you want. I'm interested in helping and sharing.
@@ -32,13 +34,15 @@ I'm a software developer specialized in frontend developer with 2 years of exper
 </p>
 
 ## 🌎 &nbsp;&nbsp;Find me around the web:
-- Writing in <a href="https://kevinfarid.com/blog" target="_blank">my Blog</a>
-- Showing my projects in <a href="https://kevinfarid.com/" target="_blank">my Web Site</a>
-- Know a little more about my work in <a href="https://www.linkedin.com/in/kevfarid/" target="_blank">Linkedin</a>
+<p align='center'>
+  <a href="https://www.kevinfarid.com/"><img src="https://img.shields.io/badge/-MY%20WEB-blue?style=for-the-badge" alt="My Web"/></a>
+  <a href="https://www.linkedin.com/in/kevfarid/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
+  <a href="https://twitter.com/KevFarid_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+</ p>
 
 ## 📈 &nbsp;&nbsp;Some of my stats are:
 <p align="center">
-  <img align="" src="https://github-readme-stats.vercel.app/api?username=kevfarid&theme=dark&show_icons=true&hide=contribs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kevfarid&theme=dark&show_icons=true&hide=contribs" />
 </p>
 
 
