@@ -1,6 +1,6 @@
 # 👋 &nbsp;&nbsp; Welcome. I'm Kev
 
-![banner](https://i.imgur.com/K0VY5gf.png)
+![banner](./imgs/banner.png)
 
 I'm a software developer specialized in frontend developer with 2 years of experience, I passionate about technology and innovation. I know that one day i'll change the world with my ideas 🖤
 
@@ -8,13 +8,15 @@ I'm a software developer specialized in frontend developer with 2 years of exper
 
 ⚙ &nbsp;&nbsp;&nbsp;I’m collaborate on <a href="https://github.com/platzily">Platzily</a>
 
-🌱 &nbsp;&nbsp;I'm currently studying learning Reactjs, Python and design concept.
+🌱 &nbsp;&nbsp;I'm currently studying learning Go, Python and design concept.
 
 💬 &nbsp;&nbsp;Ask me about whatever you want. I'm interested in helping and sharing.
 
 <!-- 📫 How to reach me:
 
 &nbsp; &nbsp;  &nbsp; [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kevfarid/) -->
+
+<img alt="avatar" src="./imgs/avatar.png" align="right" width="210"/>
 
 ## 🎯 &nbsp;&nbsp;Some technologies I use:
 
@@ -33,9 +35,10 @@ I'm a software developer specialized in frontend developer with 2 years of exper
   <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-## 🌎 &nbsp;&nbsp;Find me around the web:
+## 🌎 &nbsp;&nbsp;Contact me:
 <p align='center'>
-  <a href="https://www.kevinfarid.com/"><img src="https://img.shields.io/badge/-MY%20WEB-blue?style=for-the-badge" alt="My Web"/></a>
+  <a href="https://www.kevinfarid.com/"><img src="https://img.shields.io/badge/-MY%20WEB-55688a?style=for-the-badge&logo=Next.js" alt="My Web"/></a>
+  <a href="mailto:dev@kevinfarid.com"><img src="https://img.shields.io/badge/dev%40kevinfarid.com-1f2a3d?style=for-the-badge&logo=Mail.Ru" alt="My Email"/></a>
   <a href="https://www.linkedin.com/in/kevfarid/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
   <a href="https://twitter.com/KevFarid_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </ p>
@@ -47,7 +50,7 @@ I'm a software developer specialized in frontend developer with 2 years of exper
 
 
 <!--
-**KevFarid/KevFarid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KevFarid/KevFarid** is a ✨ _special_ ✨ repository because its `README.md` () appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
