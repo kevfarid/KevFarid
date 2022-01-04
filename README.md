@@ -44,10 +44,11 @@ I'm a software developer specialized in frontend developer with 2 years of exper
 </ p>
 
 ## 📈 &nbsp;&nbsp;Some of my stats are:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevfarid&theme=dark&show_icons=true&hide=contribs" />
-</p>
 
+<p align='center'>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kevfarid&theme=tokyonight&show_icons=true&hide=contribs" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevfarid&theme=tokyonight&layout=compact" />
+</p>
 
 <!--
 **KevFarid/KevFarid** is a ✨ _special_ ✨ repository because its `README.md` () appears on your GitHub profile.
