@@ -2,7 +2,7 @@
 
 ![banner](./imgs/banner.png)
 
-I'm a Software Enginner specialized in Frontend Developer with 2 years of experience, I passionate about technology and innovation. I know that one day i'll change the world with my ideas 🖤
+I'm a Software Enginner specialized in Frontend Developer with 3 years of experience, I passionate about technology and innovation. I know that one day i'll change the world with my ideas 🖤
 
 🔭 &nbsp;&nbsp;&nbsp;I’m currently working on <a href="https://github.com/bitsamericas">BITS Americas</a>
 
@@ -10,7 +10,7 @@ I'm a Software Enginner specialized in Frontend Developer with 2 years of experi
 
 ⚙ &nbsp;&nbsp;&nbsp;I’m collaborate on <a href="https://github.com/platzily">Platzily</a>
 
-🌱 &nbsp;&nbsp;I'm currently studying learning Go, Python and design concept.
+🌱 &nbsp;&nbsp;I'm currently studying learning Go and Rust.
 
 💬 &nbsp;&nbsp;Ask me about whatever you want. I'm interested in helping and sharing.
 
@@ -39,8 +39,8 @@ I'm a Software Enginner specialized in Frontend Developer with 2 years of experi
 
 ## 🌎 &nbsp;&nbsp;Contact me:
 <p align='center'>
-  <a href="https://www.kevinfarid.com/"><img src="https://img.shields.io/badge/-MY%20WEB-55688a?style=for-the-badge&logo=Next.js" alt="My Web"/></a>
-  <a href="mailto:dev@kevinfarid.com"><img src="https://img.shields.io/badge/dev%40kevinfarid.com-1f2a3d?style=for-the-badge&logo=Mail.Ru" alt="My Email"/></a>
+  <a href="https://www.kevfarid.dev/"><img src="https://img.shields.io/badge/-MY%20WEB-55688a?style=for-the-badge&logo=Next.js" alt="My Web"/></a>
+  <a href="mailto:kevfaridc@gmail.com"><img src="https://img.shields.io/badge/kevfaridc%40gmail.com-1f2a3d?style=for-the-badge&logo=Mail.Ru" alt="My Email"/></a>
   <a href="https://www.linkedin.com/in/kevfarid/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
   <a href="https://twitter.com/KevFarid_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </ p>
