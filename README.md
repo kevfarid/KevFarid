@@ -4,7 +4,7 @@
 
 I'm a Software Enginner specialized in Frontend Developer with 3 years of experience, I passionate about technology and innovation. I know that one day i'll change the world with my ideas 🖤
 
-🔭 &nbsp;&nbsp;&nbsp;I’m currently working on <a href="https://github.com/bitsamericas">BITS Americas</a>
+🔭 &nbsp;&nbsp;&nbsp;I’m currently working at <a href="https://github.com/mango-soft">Mango Soft</a> with Frontend Engineer 
 
 🇨🇴 &nbsp;&nbsp;&nbsp;I'm from Bogotá, Colombia.
 
