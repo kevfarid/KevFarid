@@ -2,13 +2,11 @@
 
 ![banner](./imgs/banner.png)
 
-I'm a Software Enginner specialized in Frontend Developer with 3 years of experience, I passionate about technology and innovation. I know that one day i'll change the world with my ideas 🖤
+My name is Kevin, I'm a Software developer passionate about technology and innovation. I have 4 years of experience, having worked at a multipurpose product startup in Latin America where I have developed with React and Angular, led teams, and made technical decisions. I have also worked at a consulting firm developing customized products using Vanilla JavaScript, React, and Webcomponents. I know that one day i'll change the world with my ideas 🖤
 
-🔭 &nbsp;&nbsp;&nbsp;I’m currently working at <a href="https://github.com/mango-soft">Mango Soft</a> with Frontend Engineer 
+<!-- 🔭 &nbsp;&nbsp;&nbsp;I’m currently working at <a href="">/a> with Frontend Engineer  -->
 
 🇨🇴 &nbsp;&nbsp;&nbsp;I'm from Bogotá, Colombia.
-
-⚙ &nbsp;&nbsp;&nbsp;I’m collaborate on <a href="https://github.com/platzily">Platzily</a>
 
 🌱 &nbsp;&nbsp;I'm currently studying learning Go and Rust.
 
@@ -23,8 +21,6 @@ I'm a Software Enginner specialized in Frontend Developer with 3 years of experi
 ## 🎯 &nbsp;&nbsp;Some technologies I use:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />&nbsp;&nbsp;
@@ -35,6 +31,13 @@ I'm a Software Enginner specialized in Frontend Developer with 3 years of experi
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Nextjs" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Expressjs"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongodb" />
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" />
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styledcomponent" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />&nbsp;&nbsp;
 </p>
 
 ## 🌎 &nbsp;&nbsp;Contact me:
