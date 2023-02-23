@@ -54,6 +54,10 @@ My name is Kevin, I'm a Software developer passionate about technology and innov
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kevfarid&theme=tokyonight&show_icons=true&hide=contribs" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevfarid&theme=tokyonight&layout=compact" />
 </p>
+</br>
+<div align='center'>
+  <img src="https://komarev.com/ghpvc/?username=kevfarid&style=for-the-badge" alt="counter"/>
+</div>
 
 <!--
 **KevFarid/KevFarid** is a ✨ _special_ ✨ repository because its `README.md` () appears on your GitHub profile.
