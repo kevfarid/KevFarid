@@ -8,8 +8,6 @@ My name is Kevin, I'm a Software developer passionate about technology and innov
 
 🇨🇴 &nbsp;&nbsp;&nbsp;I'm from Bogotá, Colombia.
 
-🌱 &nbsp;&nbsp;I'm currently studying learning Go and Rust.
-
 💬 &nbsp;&nbsp;Ask me about whatever you want. I'm interested in helping and sharing.
 
 <!-- 📫 How to reach me:
