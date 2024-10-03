@@ -2,7 +2,7 @@
 
 ![banner](./imgs/banner.png)
 
-My name is Kevin, I'm a Software developer passionate about technology and innovation. I have 4 years of experience, having worked at a multipurpose product startup in Latin America where I have developed with React and Angular, led teams, and made technical decisions. I have also worked at a consulting firm developing customized products using Vanilla JavaScript, React, and Webcomponents. I know that one day i'll change the world with my ideas 🖤
+With 5+ years of experience as a Frontend Developer, I lead frontend engineering at an innovative startup in its early stages, driving improvements and new feature development. My expertise spans web (Next.js, React, Angular, among others) and mobile applications, including cross-platform solutions with React Native and Ionic. I focus on delivering intuitive UI/UX, collaborating closely with users to create scalable, high-performance platforms. Proven in leading teams, optimizing deployments, and ensuring project success with modern frameworks and tools. I know that one day i'll change the world with my ideas 🖤
 
 <!-- 🔭 &nbsp;&nbsp;&nbsp;I’m currently working at <a href="">/a> with Frontend Engineer  -->
 
